@@ -1,0 +1,110 @@
+body {
+  background-image:url('hayto.png');
+  background-size: cover;
+  background-attachment: fixed;
+}
+h3 {
+  color:#f701c0cd;
+  position: absolute;
+  font-size:20px;
+  left: 70px;
+  top: 20px;
+}
+#BNM {
+  color:#f701c0cd;
+  position: absolute;
+  font-size:20px;
+  left: 150px;
+  top: 50px;
+}
+#GOOGLE {
+  position:absolute;
+  top: 145px;
+  left: 40px;
+}
+#FACEBOOK {
+  position:absolute;
+  top: 145px;
+  left:80px;
+}
+#TWITTER {
+  position:absolute;
+  top: 150px;
+  left:150px;
+}
+#HOWEI {
+  position:absolute;
+  top: 150px;
+  left: 300px;
+}
+#apple {
+  position:absolute;
+  top: 143px;
+  left:  200px;
+}
+#VK {
+  position:absolute;
+  top: 150px;
+ left: 250px;
+}
+h4 {
+  position: absolute;
+  top: 330px;
+  color: #000000;
+  background-color:#ffffffc4;
+       border: 1000px;
+       border-color:#ffffff;
+       height: 290px;
+       width: 400px;
+       border-radius: 5px;
+}
+#copy {
+  position: absolute;
+  top: 690px;
+  left:90px;
+  color: #ffffff;
+}
+#madherchod {
+  position: absolute;
+  top: 700px;
+  height: 10px;
+  width: 10px;
+}
+#loda{
+  position: absolute;
+  top: 710px;
+}
+#chui{
+  position: absolute;
+  top: 710px;
+  left:90px;
+  color: #ffffff;
+}
+#Z {
+  position: absolute;
+  color: #000000;
+  top: 370px
+}
+#ZZ{
+  position: absolute;
+  color: #000000;
+  top: 410px
+}
+#ZZZ{
+  position: absolute;
+  color: #000000;
+  top: 470px
+}
+#ZZZZ{
+  position: absolute;
+  color: #000000;
+  top: 510px
+}
+#ZZZZZ{
+  position: absolute;
+  color: #000000;
+  top: 590px
+}
+span {
+  color: #ff0f0f;
+}
